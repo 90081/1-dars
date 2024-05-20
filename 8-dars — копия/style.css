@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: fantasty;
+}
+
+.body {
+    background: darkcyan;
+    display: flex
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+}
+
+.table {
+    border: 1pxsolid #fff;
+    background: rg, 
+}
